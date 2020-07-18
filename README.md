@@ -62,7 +62,7 @@ your browser with a live view of a web server.
 They have a clean user interface, with simple configuration guides available.
 (This is probably the easiest solution.)
 
-<h3>Archives</h3>
+<h4>Archives</h4>
 
 - phaser.min.js, the Phaser v2.4.3 framework.
 - index.html, where the game will be displayed.
